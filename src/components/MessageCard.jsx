@@ -15,13 +15,17 @@ function MessageCard({ isActive }) {
 
   const message = `[Recipient Name],
 
-Your personalized birthday message goes here.
+HAHAAHAHA I'ts my Birthday 
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+
+
+
+
+
+
+
+
 
 Happy Birthday! 🎉
 
