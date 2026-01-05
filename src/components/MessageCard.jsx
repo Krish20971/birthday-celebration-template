@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[krish],
 
 HAHAAHAHA I'ts my Birthday 
 
@@ -29,7 +29,7 @@ HAHAAHAHA I'ts my Birthday
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [krish]`;
 
   // Handle page transitions
   useEffect(() => {
